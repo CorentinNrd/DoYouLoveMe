@@ -1,5 +1,5 @@
 <template>
-  <main class="flex justify-center items-center columns pa-20" style="height: 100%">
+  <main class="flex justify-center items-center columns" style="height: 100%">
     <h1 v-if="firstGif">Est ce que tu m'aimes ?</h1>
     <h1 v-else>Moi aussi je t'aime !</h1>
 
